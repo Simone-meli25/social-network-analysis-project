@@ -1,0 +1,10 @@
+# prop_name, value
+name,moviegalaxies (180)
+description,Social graphs for over 700 movies from the moviegalaxies.com website. Each node represents a character in a movie and each edge is a same-scene appearance between two characters in that movie. The weight gives the number of same-scene appearances. Networks are extracted from movie scripts automatically.
+citation,"['J. Kaminski et al., \"Moviegalaxies - Social Networks in Movies.\" https://doi.org/10.7910/DVN/T4HBA3, Harvard Dataverse, V3 (2018), https://doi.org/10.7910/DVN/T4HBA3']"
+url,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3
+tags,"['Social', 'Fictional', 'Weighted']"
+movie_title,Catch Me If You Can
+imdb_id,tt0264464
+release_date,2002
+slug,Catch-Me-If-You-Can
